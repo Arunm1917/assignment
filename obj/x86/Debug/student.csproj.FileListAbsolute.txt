@@ -1,0 +1,9 @@
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\obj\x86\Debug\student.Form1.resources
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\obj\x86\Debug\student.Properties.Resources.resources
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\obj\x86\Debug\student.csproj.GenerateResource.Cache
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\bin\Debug\student.exe.config
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\bin\Debug\student.exe
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\bin\Debug\student.pdb
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\obj\x86\Debug\student.exe
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\obj\x86\Debug\student.pdb
+C:\Users\intel\documents\visual studio 2010\Projects\student\student\obj\x86\Debug\student.csprojResolveAssemblyReference.cache
